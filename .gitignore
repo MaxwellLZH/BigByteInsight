@@ -93,3 +93,4 @@ ENV/
 *.xlsx
 *.docx
 *.sql
+*.DS_Store
